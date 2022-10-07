@@ -1,1 +1,1 @@
-# Respomsice-web-design
+# Responsive-web-design
